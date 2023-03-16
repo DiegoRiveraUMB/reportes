@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tus reportes</string>
+    <string name="BotonAbrir">Abrir</string>
+    <string name="textVB">Bienvenido(a)</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="BotonSalir">Salir</string>
+    <string name="BotonEnviar">Enviar</string>
+    <string name="textVBR">Ingresa tus datos</string>
+    <string name="textPN">Nombre</string>
+    <string name="textEmail">correo-ejemplo@ejemplo.com</string>
+    <string name="btnCamara">Camara</string>
+    <string name="textID">Nombre o id del elemento</string>
+    <string name="textMaterial">Selecciona un Material</string>
+    <string name="textDiam">Selecciona un Diametro</string>
+    <string name="textObs">Observaciones</string>
+    <string name="textMulti">Esta aplicación te ayudará a enviar tus reportes. Al oprimir el botón abrir, te pedirá algunos datos, luego tienes que verificar y aceptarlos, por último diligencia el formulario y envíalo.</string>
+    <string name="textView5">¿Desea enviar otro registro?</string>
+    <string name="textView4">Por usar la app para reportes</string>
+    <string name="radioButtonAC">Acueducto</string>
+    <string name="radioButtonAlc">Alcantarillado</string>
+</resources>
